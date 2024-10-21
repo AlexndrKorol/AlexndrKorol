@@ -7,12 +7,12 @@
 </h1>
 
 ### :man_technologist: Обо мне :
-Добрый день! Я Александр Король. Я не побоялся сменить сферу деятельности и погрузился в новое для себя направление - frontend.
-Так же я занимаюсь веб-дизайном и визуальной коммуникацией.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Добрый день! Я Александр Король. Я дизайнер визуальной коммуникации.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: Моя цель - полностью перейти в сферу разработки.
+- :telescope: Придаю данным обертку и смысл.
 
-- :zap: В свободное время я изучаю frontend и веб-дизайн.
+- :zap: Совершенствуюсь, как дизайнер.
 
 - :mailbox:Связаться со мной: [[Telegram](https://t.me/Alexndr_Korol)]
 
